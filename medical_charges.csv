@@ -51,7 +51,7 @@
 
   <script type="application/json" id="client-env">{"locale":"en","featureFlags":["a11y_status_checks_ruleset","actions_custom_images_public_preview_visibility","actions_custom_images_storage_billing_ui_visibility","actions_enable_snapshot_keyword","actions_image_version_event","allow_react_navs_in_turbo","alternate_user_config_repo","api_insights_show_missing_data_banner","arianotify_comprehensive_migration","arianotify_partial_migration","client_version_header","codespaces_prebuild_region_target_update","coding_agent_model_selection","contentful_lp_footnotes","copilot_agent_cli_public_preview","copilot_agent_sessions_alive_updates","copilot_agent_task_list_v2","copilot_agent_tasks_btn_code_nav","copilot_agent_tasks_btn_code_view","copilot_agent_tasks_btn_code_view_lines","copilot_agent_tasks_btn_repo","copilot_api_agentic_issue_marshal_yaml","copilot_api_draft_issue_reference_with_project_id","copilot_api_github_draft_update_issue_skill","copilot_chat_agents_empty_state","copilot_chat_attach_multiple_images","copilot_chat_clear_model_selection_for_default_change","copilot_chat_file_redirect","copilot_chat_input_commands","copilot_chat_opening_thread_switch","copilot_chat_reduce_quota_checks","copilot_chat_search_bar_redirect","copilot_chat_selection_attachments","copilot_chat_vision_in_claude","copilot_chat_vision_preview_gate","copilot_coding_agent_task_response","copilot_custom_copilots","copilot_custom_copilots_feature_preview","copilot_duplicate_thread","copilot_extensions_hide_in_dotcom_chat","copilot_extensions_removal_on_marketplace","copilot_features_raycast_logo","copilot_file_block_ref_matching","copilot_ftp_hyperspace_upgrade_prompt","copilot_icebreakers_experiment_dashboard","copilot_icebreakers_experiment_hyperspace","copilot_immersive_generate_thread_name_async","copilot_immersive_job_result_preview","copilot_immersive_structured_model_picker","copilot_immersive_task_hyperlinking","copilot_immersive_task_within_chat_thread","copilot_org_policy_page_focus_mode","copilot_redirect_header_button_to_agents","copilot_security_alert_assignee_options","copilot_share_active_subthread","copilot_spaces_ga","copilot_spaces_individual_policies_ga","copilot_spaces_public_access_to_user_owned_spaces","copilot_spaces_read_access_to_user_owned_spaces","copilot_spaces_report_abuse","copilot_spark_empty_state","copilot_spark_handle_nil_friendly_name","copilot_spark_loading_webgl","copilot_stable_conversation_view","copilot_swe_agent_progress_commands","copilot_swe_agent_use_subagents","copilot_unconfigured_is_inherited","dashboard_universe_2025_feedback_dialog","direct_to_salesforce","dom_node_counts","dotcom_chat_client_side_skills","enterprise_ai_controls","failbot_report_error_react_apps_on_page","fetch_graphql_improved_error_serialization","flex_cta_groups_mvp","global_nav_react_edit_status_dialog","global_nav_react_feature_preview","global_nav_react_teams_settings_page","global_nav_react_top_repos_api_caching","hyperspace_2025_logged_out_batch_1","initial_per_page_pagination_updates","issue_fields_global_search","issue_fields_report_usage","issue_fields_timeline_events","issues_cca_assign_actor_with_agent","issues_expanded_file_types","issues_lazy_load_comment_box_suggestions","issues_react_bots_timeline_pagination","issues_react_chrome_container_query_fix","issues_react_client_side_caching_analytics","issues_react_prohibit_title_fallback","issues_react_use_turbo_for_cross_repo_navigation","issues_report_sidebar_interactions","lifecycle_label_name_updates","link_contact_sales_swp_marketo","marketing_pages_search_explore_provider","memex_default_issue_create_repository","memex_grouped_by_edit_route","memex_mwl_filter_field_delimiter","mission_control_use_body_html","new_traffic_page_banner","open_agent_session_in_vscode_insiders","open_agent_session_in_vscode_stable","pr_react_progressive_queue","projects_assignee_max_limit","react_compiler_markdown_editor","react_custom_partial_router","react_fetch_graphql_ignore_expected_errors","render_user_display_name","repo_traffic_job","repos_insights_remove_new_url","ruleset_deletion_confirmation","sample_network_conn_type","scheduled_reminders_updated_limits","site_calculator_actions_2025","site_features_copilot_universe","site_homepage_collaborate_video","site_homepage_contentful","site_homepage_eyebrow_banner","site_homepage_universe_animations","site_msbuild_webgl_hero","spark_prompt_secret_scanning","swe_agent_member_requests","viewscreen_sandbox","webp_support","workbench_store_readonly"],"copilotApiOverrideUrl":"https://api.githubcopilot.com"}</script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/high-contrast-cookie-ff2c933fbe48.js"></script>
-<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-6a897315ab3e.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-41365df88cf2.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/913-ca2305638c53.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/6488-de87864e6818.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/environment-b3d48626cc6e.js" defer="defer"></script>
@@ -64,7 +64,7 @@
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/78143-31968346cf4c.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/52430-2f44a4a36933.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-8b5d9b8ccf1f.js" defer="defer"></script>
-<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-b76c5e7a7000.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-5f9f43078930.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-760965ba27bb.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/react-core-c947eff3bbc1.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/28546-ee41c9313871.js" defer="defer"></script>
@@ -117,13 +117,13 @@
   <meta name="route-pattern" content="/:user_id/:repository" data-turbo-transient>
   <meta name="route-controller" content="files" data-turbo-transient>
   <meta name="route-action" content="disambiguate" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:c2721299-bbfc-c045-eade-a491b83b3a89">
+  <meta name="fetch-nonce" content="v2:d39dc44b-b7b9-a4be-b261-05081c5f35b1">
 
     
   <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="1CE2:1924FC:2D9A334:3410073:695807A1" data-pjax-transient="true"/><meta name="html-safe-nonce" content="9acff0ea9806832722bf122f43b74f9e69e6200fe68a0ac477756ecc63b8bd0e" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIxQ0UyOjE5MjRGQzoyRDlBMzM0OjM0MTAwNzM6Njk1ODA3QTEiLCJ2aXNpdG9yX2lkIjoiMzQyMzU2MDAyNTg3MjI3MTI2NSIsInJlZ2lvbl9lZGdlIjoiY2VudHJhbGluZGlhIiwicmVnaW9uX3JlbmRlciI6ImNlbnRyYWxpbmRpYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="6f4c785be5922560f6a048977f56fa008594951670eb51293f6eff07a25557eb" data-pjax-transient="true"/>
+  <meta name="request-id" content="0CD4:1DB4A7:2E702C6:3503DA5:695815FF" data-pjax-transient="true"/><meta name="html-safe-nonce" content="27aae5d3befcba8e841425c2dd5ad262a5d1ff338b41e6f3d94c3c2cc38d8aa9" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwQ0Q0OjFEQjRBNzoyRTcwMkM2OjM1MDNEQTU6Njk1ODE1RkYiLCJ2aXNpdG9yX2lkIjoiMTg5MTM4Nzg5MjUwNjgyNjI0MCIsInJlZ2lvbl9lZGdlIjoiY2VudHJhbGluZGlhIiwicmVnaW9uX3JlbmRlciI6ImNlbnRyYWxpbmRpYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="65e0e41d478800ff187f53ac809ed7f3ca9210ab0585f81a038f8c15d3de9454" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:23127684" data-turbo-transient>
@@ -162,8 +162,8 @@
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/stedy/Machine-Learning-with-R-datasets" />
 
-      <meta name="twitter:image" content="https://opengraph.githubassets.com/07a21e0ad71d577e6c72e8af5ab59db4ec69472ec484b20118ba7f6a92a445fa/stedy/Machine-Learning-with-R-datasets" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="GitHub - stedy/Machine-Learning-with-R-datasets: Formatted datasets for Machine Learning With R by Brett Lantz" /><meta name="twitter:description" content="Formatted datasets for Machine Learning With R by Brett Lantz - stedy/Machine-Learning-with-R-datasets" />
-  <meta property="og:image" content="https://opengraph.githubassets.com/07a21e0ad71d577e6c72e8af5ab59db4ec69472ec484b20118ba7f6a92a445fa/stedy/Machine-Learning-with-R-datasets" /><meta property="og:image:alt" content="Formatted datasets for Machine Learning With R by Brett Lantz - stedy/Machine-Learning-with-R-datasets" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="GitHub - stedy/Machine-Learning-with-R-datasets: Formatted datasets for Machine Learning With R by Brett Lantz" /><meta property="og:url" content="https://github.com/stedy/Machine-Learning-with-R-datasets" /><meta property="og:description" content="Formatted datasets for Machine Learning With R by Brett Lantz - stedy/Machine-Learning-with-R-datasets" />
+      <meta name="twitter:image" content="https://opengraph.githubassets.com/18419a20d0693a99407c58d605b5a8315727b99404cc8109fb22390e874d70db/stedy/Machine-Learning-with-R-datasets" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="GitHub - stedy/Machine-Learning-with-R-datasets: Formatted datasets for Machine Learning With R by Brett Lantz" /><meta name="twitter:description" content="Formatted datasets for Machine Learning With R by Brett Lantz - stedy/Machine-Learning-with-R-datasets" />
+  <meta property="og:image" content="https://opengraph.githubassets.com/18419a20d0693a99407c58d605b5a8315727b99404cc8109fb22390e874d70db/stedy/Machine-Learning-with-R-datasets" /><meta property="og:image:alt" content="Formatted datasets for Machine Learning With R by Brett Lantz - stedy/Machine-Learning-with-R-datasets" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="GitHub - stedy/Machine-Learning-with-R-datasets: Formatted datasets for Machine Learning With R by Brett Lantz" /><meta property="og:url" content="https://github.com/stedy/Machine-Learning-with-R-datasets" /><meta property="og:description" content="Formatted datasets for Machine Learning With R by Brett Lantz - stedy/Machine-Learning-with-R-datasets" />
   
 
 
@@ -176,10 +176,10 @@
         <meta name="expected-hostname" content="github.com">
 
 
-  <meta http-equiv="x-pjax-version" content="9aeb531abd104bded3d85d56a74c9426c111962ed1b90420f74781c8b74106c7" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="bd22250dbf277caf8f4ea9e2cc823806591e8d34c439f4e528d148b41f21e31c" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="21a43568025709b66240454fc92d4f09335a96863f8ab1c46b4a07f6a5b67102" data-turbo-track="reload">
   <meta http-equiv="x-pjax-css-version" content="03da391a01750e54015d0ebd9e7e968879f966ef76d8a697be72ccbc12abac55" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="5cb6d9f371e261807e2e2c59c6250119d2dd170e3a32ee949e92cf8826286e56" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="6e18d9792b3f4c153764159999d0cd147d8aa81fca7f0e4d44ff437268cc2337" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -201,8 +201,8 @@
 
   <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
 
-  <meta name="release" content="1f40c88513f893474c29be4d5fe4d466288332c0">
-  <meta name="ui-target" content="canary-1">
+  <meta name="release" content="784150cf37a5ef22a093bbfb374a98ec22285cd6">
+  <meta name="ui-target" content="full">
 
   <link rel="mask-icon" href="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" color="#000000">
   <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
@@ -237,7 +237,7 @@
   partial-name="keyboard-shortcuts-dialog"
   data-ssr="false"
   data-attempted-ssr="false"
-  data-react-profiling="true"
+  data-react-profiling="false"
 >
   
   <script type="application/json" data-target="react-partial.embeddedData">{"props":{"docsUrl":"https://docs.github.com/get-started/accessibility/keyboard-shortcuts"}}</script>
@@ -303,10 +303,10 @@
           </a>
               <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-5d06198b-005d-4440-b3cd-47b650571115" aria-labelledby="tooltip-0f84291a-6989-4379-8f00-5a63308d882b" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-27711729-5a29-4ba3-be38-6e29317a006d" aria-labelledby="tooltip-720a8feb-893a-46e8-9e9e-5789743d8be9" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-0f84291a-6989-4379-8f00-5a63308d882b" for="icon-button-5d06198b-005d-4440-b3cd-47b650571115" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-720a8feb-893a-46e8-9e9e-5789743d8be9" for="icon-button-27711729-5a29-4ba3-be38-6e29317a006d" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.47239ec6cbe68138fe4c.module.css" />
@@ -354,7 +354,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:stedy/Machine-Learning-with-R-datasets" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="tgnfQn6NDPnkUUNt9FNi3bX8A4ehPNHA6kOArsKIHKdmyrouebl_LQqaZwjFL_2qiig5tL0iSfWGB95pxRZx8g" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="stedy/Machine-Learning-with-R-datasets" data-current-org="" data-current-owner="stedy" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
+<qbsearch-input class="search-input" data-scope="repo:stedy/Machine-Learning-with-R-datasets" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="SeriZTZlAwdIRSkpXPC1R58NC8Ezj_mPA615M_6Rc34JLCxyA_loK3MP6mnVxyazP99PDkIeKPZvm2GHagmr4Q" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="stedy/Machine-Learning-with-R-datasets" data-current-org="" data-current-owner="stedy" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -418,7 +418,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-188c69f9-1ab7-4edd-a5c9-64adfe9849b0" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-ac1259f7-8cc4-48aa-8285-4093bd70561a" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -656,7 +656,7 @@
                   tabindex="-1"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-188c69f9-1ab7-4edd-a5c9-64adfe9849b0" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-ac1259f7-8cc4-48aa-8285-4093bd70561a" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -697,7 +697,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="beFzy3y+o9YFCvCL3DMlrsWQqBL9zz83fACcgeDQZ4muaNc7XkEhp9DaofX74+SU3LiueYzg12ZJ6Z/loJP31g==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="nKNN3wTwtqf4y/d1tAFNEiogFHsS2m/ewe057me2iPmVITA86iPP3dFba2zbZfK3aZfpbHbiw7Ob3JAcKveSgg==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -735,7 +735,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="dDDiX9xa3F3vN6oatMVt9RobRCLCbS1UxiM9Hu7X8Xgvz1Xz5KLF73HwEyHecWT+3CCrHBtcWp/nNgFzKPF9Bw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="lm0CqsZEzCkFeOvtNwxtGzmPLFd/V/IEBgS2ChJ9OcK/rEO+k/HCwv1xQnaWxz419tHoGM6jys2nqVBWzJMn7Q==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -753,7 +753,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="Et4ue+Du4soxBM91Igcm/JwE/ME3/YTTFnVwTOyhNopER26l343PI22QcVzUxoYsKtxnCogmn01xsPsGFUA3qw==" />
+              <input type="hidden" data-csrf="true" value="aOkXhBVSKHmKD9s4uR2w4kj9+r0mKE7SB/muvsuhQATZR81S94aUEp1SZZTRYfl7NzltosP+5+NWSBsKNsksrw==" />
             </auto-check>
           </div>
 
@@ -815,10 +815,10 @@
 
                 <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-625aaa4d-0519-485d-af01-97bf745e73f3" aria-labelledby="tooltip-875c6bb0-babc-48ae-be35-0e73a11126c3" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-43b0ffdc-01ca-4adc-abcb-d272f2effc08" aria-labelledby="tooltip-d42e20b7-5042-4a8e-a55f-ccf2f46f46d0" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-875c6bb0-babc-48ae-be35-0e73a11126c3" for="icon-button-625aaa4d-0519-485d-af01-97bf745e73f3" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-d42e20b7-5042-4a8e-a55f-ccf2f46f46d0" for="icon-button-43b0ffdc-01ca-4adc-abcb-d272f2effc08" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.47239ec6cbe68138fe4c.module.css" />
@@ -856,10 +856,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-82dbb595-4267-4453-aea1-b5908043361e" aria-labelledby="tooltip-d786f736-fa56-435d-8829-c919f4295745" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-38115117-c8d1-4db7-8309-dd0cf2b8c768" aria-labelledby="tooltip-3fe5316d-ab54-471d-a4af-8ad421b090e9" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-d786f736-fa56-435d-8829-c919f4295745" for="icon-button-82dbb595-4267-4453-aea1-b5908043361e" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-3fe5316d-ab54-471d-a4af-8ad421b090e9" for="icon-button-38115117-c8d1-4db7-8309-dd0cf2b8c768" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -967,7 +967,7 @@
             <a href="/login?return_to=%2Fstedy%2FMachine-Learning-with-R-datasets" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/stedy/Machine-Learning-with-R-datasets&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="63bda25bbd746fcb7c32057f291a1a953f580f87d7d938ea22006c30b4d9bf0b" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-999bb66b-7822-432f-9dae-5f9cb999e391" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-6f303613-4c0d-4c7b-bbbc-dfc87cd02396" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 
   </li>
 
@@ -985,7 +985,7 @@
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
-</span>          <span id="repo-stars-counter-star" aria-label="662 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="662" data-view-component="true" class="Counter js-social-count">662</span>
+</span>          <span id="repo-stars-counter-star" aria-label="663 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="663" data-view-component="true" class="Counter js-social-count">663</span>
 </a></div>
   </li>
 
@@ -1007,7 +1007,7 @@
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg>
-          <span class="text-bold">662</span>
+          <span class="text-bold">663</span>
           stars
 </a>        <a class="Link--secondary no-underline mr-3" href="/stedy/Machine-Learning-with-R-datasets/forks">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-1">
@@ -1045,7 +1045,7 @@
                 <a href="/login?return_to=%2Fstedy%2FMachine-Learning-with-R-datasets" rel="nofollow" id="files-overview-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/stedy/Machine-Learning-with-R-datasets&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="63bda25bbd746fcb7c32057f291a1a953f580f87d7d938ea22006c30b4d9bf0b" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn btn-block">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-084a10e4-110d-4b06-a589-c15023a16634" for="files-overview-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-5562731c-e20b-4296-a9c8-400b82cb1f12" for="files-overview-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 
         </div>
         <span>
@@ -1140,7 +1140,7 @@
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/stedy/Machine-Learning-with-R-datasets/security/overall-count" accept="text/fragment+html" data-nonce="v2:c2721299-bbfc-c045-eade-a491b83b3a89" data-view-component="true">
+          <include-fragment src="/stedy/Machine-Learning-with-R-datasets/security/overall-count" accept="text/fragment+html" data-nonce="v2:d39dc44b-b7b9-a4be-b261-05081c5f35b1" data-view-component="true">
   
   <div data-show-on-forbidden-error hidden>
     <div class="Box">
@@ -1174,22 +1174,22 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-193f1e5a-4da9-4dbc-84b5-ec7dae3bf3a9-button" popovertarget="action-menu-193f1e5a-4da9-4dbc-84b5-ec7dae3bf3a9-overlay" aria-controls="action-menu-193f1e5a-4da9-4dbc-84b5-ec7dae3bf3a9-list" aria-haspopup="true" aria-labelledby="tooltip-ea5725b3-2984-4606-b74b-6eaca890805c" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-aab9bad5-c20f-4bf9-ace3-b94614f19706-button" popovertarget="action-menu-aab9bad5-c20f-4bf9-ace3-b94614f19706-overlay" aria-controls="action-menu-aab9bad5-c20f-4bf9-ace3-b94614f19706-list" aria-haspopup="true" aria-labelledby="tooltip-8cf7baa5-92bf-40aa-9649-4d2e9a776c8b" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-ea5725b3-2984-4606-b74b-6eaca890805c" for="action-menu-193f1e5a-4da9-4dbc-84b5-ec7dae3bf3a9-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-8cf7baa5-92bf-40aa-9649-4d2e9a776c8b" for="action-menu-aab9bad5-c20f-4bf9-ace3-b94614f19706-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-193f1e5a-4da9-4dbc-84b5-ec7dae3bf3a9-overlay" anchor="action-menu-193f1e5a-4da9-4dbc-84b5-ec7dae3bf3a9-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-aab9bad5-c20f-4bf9-ace3-b94614f19706-overlay" anchor="action-menu-aab9bad5-c20f-4bf9-ace3-b94614f19706-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-193f1e5a-4da9-4dbc-84b5-ec7dae3bf3a9-button" id="action-menu-193f1e5a-4da9-4dbc-84b5-ec7dae3bf3a9-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-aab9bad5-c20f-4bf9-ace3-b94614f19706-button" id="action-menu-aab9bad5-c20f-4bf9-ace3-b94614f19706-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-99ec7929-b370-4c07-9100-2b79d2ad670a" href="/stedy/Machine-Learning-with-R-datasets" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-c757edd5-1cbb-4f4e-b265-b517a6af7cd7" href="/stedy/Machine-Learning-with-R-datasets" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1205,7 +1205,7 @@
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-dd09160a-354b-4ef6-b7a2-770ee95d0e24" href="/stedy/Machine-Learning-with-R-datasets/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-fc6a31b4-b546-44ec-be03-2a1cf19bc042" href="/stedy/Machine-Learning-with-R-datasets/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1221,7 +1221,7 @@
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-abe9e023-2710-4df0-b3e3-6ecb7b6e9c2b" href="/stedy/Machine-Learning-with-R-datasets/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-cf425441-208e-4653-bb07-d657222727b2" href="/stedy/Machine-Learning-with-R-datasets/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1237,7 +1237,7 @@
         <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-dd3851ab-38f0-4ac4-a281-67138c12da8c" href="/stedy/Machine-Learning-with-R-datasets/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-ad30347a-09ad-4a7c-baa1-2d4ceaff714b" href="/stedy/Machine-Learning-with-R-datasets/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1253,7 +1253,7 @@
         <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-a02b5f13-3b63-429b-b2dc-c06be9d80294" href="/stedy/Machine-Learning-with-R-datasets/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-56cf6456-489e-47b4-9780-87890cd1890f" href="/stedy/Machine-Learning-with-R-datasets/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1269,7 +1269,7 @@
         <li hidden="hidden" data-menu-item="i5wiki-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-5af1731b-b252-4500-b713-b2479e24f259" href="/stedy/Machine-Learning-with-R-datasets/wiki" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-5a38688d-0d6b-4b0d-aded-1ff4a32ac34a" href="/stedy/Machine-Learning-with-R-datasets/wiki" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book">
     <path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path>
@@ -1285,7 +1285,7 @@
         <li hidden="hidden" data-menu-item="i6security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-35019361-13a2-4780-837e-848efc812527" href="/stedy/Machine-Learning-with-R-datasets/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-f4796f91-4c2a-41a8-a714-93c520ff3d92" href="/stedy/Machine-Learning-with-R-datasets/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1301,7 +1301,7 @@
         <li hidden="hidden" data-menu-item="i7insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-d8c87209-feac-44b1-b144-221efbacd0cf" href="/stedy/Machine-Learning-with-R-datasets/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-01b234b2-20ff-4318-acf5-6d77414905aa" href="/stedy/Machine-Learning-with-R-datasets/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1401,7 +1401,7 @@ wget name_of_url</li>
 </react-partial>
 
 
-      <input type="hidden" data-csrf="true" value="8rDYuK236XDD9ClJiK3vLdCpJTTr7NGRwAFYWtj7BiLOd3XRLtTX8y57H6uSAWr9VFKg06hyja0LYE65AI3S5w==" />
+      <input type="hidden" data-csrf="true" value="z0taM/Jruu/adJUjYWgVmqTKVJ3fIt3+Y4XIR1ICcXy64VkIYPDQRVexj26jhGFj+gdaSit1EWZKuBEBRWztlg==" />
 </div>
   <div data-view-component="true" class="Layout-sidebar">      
 
@@ -1431,7 +1431,7 @@ wget name_of_url</li>
 
 
 
-  <include-fragment src="/stedy/Machine-Learning-with-R-datasets/hovercards/citation/sidebar_partial?tree_name=master" data-nonce="v2:c2721299-bbfc-c045-eade-a491b83b3a89" data-view-component="true">
+  <include-fragment src="/stedy/Machine-Learning-with-R-datasets/hovercards/citation/sidebar_partial?tree_name=master" data-nonce="v2:d39dc44b-b7b9-a4be-b261-05081c5f35b1" data-view-component="true">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1460,7 +1460,7 @@ wget name_of_url</li>
       <a href="/stedy/Machine-Learning-with-R-datasets/stargazers" data-view-component="true" class="Link Link--muted"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg>
-        <strong>662</strong>
+        <strong>663</strong>
         stars</a>    </div>
 
     <h3 class="sr-only">Watchers</h3>
@@ -1522,7 +1522,7 @@ wget name_of_url</li>
         
             <div class="BorderGrid-row" hidden>
               <div class="BorderGrid-cell">
-                <include-fragment src="/stedy/Machine-Learning-with-R-datasets/used_by_list" accept="text/fragment+html" data-nonce="v2:c2721299-bbfc-c045-eade-a491b83b3a89" data-view-component="true">
+                <include-fragment src="/stedy/Machine-Learning-with-R-datasets/used_by_list" accept="text/fragment+html" data-nonce="v2:d39dc44b-b7b9-a4be-b261-05081c5f35b1" data-view-component="true">
   
 
   <div data-show-on-forbidden-error hidden>
@@ -1550,57 +1550,37 @@ wget name_of_url</li>
       <span title="3" data-view-component="true" class="Counter ml-1">3</span></a></h2>
 
 
-    
-  <ul class="list-style-none ">
-    <li class="mb-2 d-flex"
-        >
-      <a href="https://github.com/rogerzanoni"
-          class="mr-2"
-            data-hovercard-type="user" data-hovercard-url="/users/rogerzanoni/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self"
-          
-        >
-        <img src="https://avatars.githubusercontent.com/u/589787?s=64&amp;v=4" alt="@rogerzanoni" size="32" height="32" width="32" data-view-component="true" class="avatar circle" />
-      </a>
-      <span data-view-component="true" class="flex-self-center min-width-0 css-truncate css-truncate-overflow width-fit flex-auto">
-        <a href="https://github.com/rogerzanoni" class="Link--primary no-underline flex-self-center">
-          <strong>rogerzanoni</strong>
-          <span class="color-fg-muted">Roger Zanoni</span>
-        </a>
-</span>    </li>
-    <li class="mb-2 d-flex"
-        >
-      <a href="https://github.com/mzakariaCERN"
-          class="mr-2"
-            data-hovercard-type="user" data-hovercard-url="/users/mzakariaCERN/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self"
-          
-        >
-        <img src="https://avatars.githubusercontent.com/u/5668527?s=64&amp;v=4" alt="@mzakariaCERN" size="32" height="32" width="32" data-view-component="true" class="avatar circle" />
-      </a>
-      <span data-view-component="true" class="flex-self-center min-width-0 css-truncate css-truncate-overflow width-fit flex-auto">
-        <a href="https://github.com/mzakariaCERN" class="Link--primary no-underline flex-self-center">
-          <strong>mzakariaCERN</strong>
-          <span class="color-fg-muted">mzakaria</span>
-        </a>
-</span>    </li>
-    <li class="mb-2 d-flex"
-        >
-      <a href="https://github.com/nachocab"
-          class="mr-2"
-            data-hovercard-type="user" data-hovercard-url="/users/nachocab/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self"
-          
-        >
-        <img src="https://avatars.githubusercontent.com/u/27538?s=64&amp;v=4" alt="@nachocab" size="32" height="32" width="32" data-view-component="true" class="avatar circle" />
-      </a>
-      <span data-view-component="true" class="flex-self-center min-width-0 css-truncate css-truncate-overflow width-fit flex-auto">
-        <a href="https://github.com/nachocab" class="Link--primary no-underline flex-self-center">
-          <strong>nachocab</strong>
-          <span class="color-fg-muted">Nacho Caballero</span>
-        </a>
-</span>    </li>
-</ul>
+    <include-fragment aria-busy="true" aria-label="Loading contributors" src="/stedy/Machine-Learning-with-R-datasets/contributors_list?count=3&amp;current_repository=Machine-Learning-with-R-datasets&amp;items_to_show=3" data-nonce="v2:d39dc44b-b7b9-a4be-b261-05081c5f35b1" data-view-component="true">
+  
+      <ul class="list-style-none ">
+          <li class="mb-2 d-flex">
+            <div class="Skeleton avatar avatar-user mr-2" style="width:32px;height:32px;"></div>
+              <div class="Skeleton Skeleton--text flex-1 flex-self-center f4">&nbsp;</div>
+          </li>
+          <li class="mb-2 d-flex">
+            <div class="Skeleton avatar avatar-user mr-2" style="width:32px;height:32px;"></div>
+              <div class="Skeleton Skeleton--text flex-1 flex-self-center f4">&nbsp;</div>
+          </li>
+          <li class="mb-2 d-flex">
+            <div class="Skeleton avatar avatar-user mr-2" style="width:32px;height:32px;"></div>
+              <div class="Skeleton Skeleton--text flex-1 flex-self-center f4">&nbsp;</div>
+          </li>
+      </ul>
 
+  <div data-show-on-forbidden-error hidden>
+    <div class="Box">
+  <div class="blankslate-container">
+    <div data-view-component="true" class="blankslate blankslate-spacious color-bg-default rounded-2">
+      
 
+      <h3 data-view-component="true" class="blankslate-heading">        Uh oh!
+</h3>
+      <p data-view-component="true">        <p class="color-fg-muted my-2 mb-2 ws-normal">There was an error while loading. <a class="Link--inTextBlock" data-turbo="false" href="" aria-label="Please reload this page">Please reload this page</a>.</p>
+</p>
 
+</div>  </div>
+</div>  </div>
+</include-fragment>
 
 
               </div>
